@@ -10,8 +10,6 @@ opcode_map = {
     'j': '000010', 'jal': '000011'
 }
 
-#Function code
-
 # Function code map for R-type instructions
 funct_map = {
     'add': '100000',      # Addition

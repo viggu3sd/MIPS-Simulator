@@ -74,3 +74,27 @@ This comprehensive simulator bridges the gap between **theoretical MIPS concepts
 This project is open-source and free to use for educational and research purposes.
 
 ## Working
+### Step 1: Setup
+- Clone the repository to your local machine.
+- Ensure you have Python installed (version 3.6 or higher).
+
+### Step 2: Prepare Input
+- Create a MIPS assembly file named `input.txt`.
+- Include `.data` and `.text` sections with appropriate MIPS instructions.
+
+### Step 3: Run the Simulator
+- Navigate to the project directory.
+- Execute the simulator script using the command:
+    ```sh
+    python mips_simulator.py
+    ```
+
+### Step 4: Review Output
+- The simulator will generate an `output.txt` file containing the binary translation of the MIPS instructions.
+- The console will display the execution trace, including register states and memory contents.
+
+### Step 5: Debug and Analyze
+- Use the printed execution trace to debug and analyze the behavior of your MIPS program.
+- Verify the correctness of instruction execution and data manipulation.
+
+By following these steps, you can effectively simulate and debug MIPS assembly programs using the MIPS-Simulator.

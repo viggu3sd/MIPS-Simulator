@@ -73,3 +73,4 @@ This comprehensive simulator bridges the gap between **theoretical MIPS concepts
 ## License
 This project is open-source and free to use for educational and research purposes.
 
+## Working

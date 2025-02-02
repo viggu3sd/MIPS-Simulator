@@ -2,7 +2,6 @@
 ## Overview
 This Python-based **MIPS Simulator** is designed to parse, translate, and execute MIPS assembly language programs. It provides a complete pipeline for processing `.data` and `.text` sections, translating instructions into binary, simulating the MIPS datapath, and executing instructions in a step-by-step manner.
 
-## Key Features
 ### Instruction Parsing
 - Supports **R-type, I-type, and J-type** MIPS instructions.
 - Handles additional pseudo-instructions like `li`, `la`, and `move`.
